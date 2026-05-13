@@ -27,8 +27,8 @@ Com o framework ROOT instalado, abra o terminal na pasta do projeto, inicialize 
 
 Dentro da pasta existem 3 macros:
 
-- Para gerar um gráfico do perfil da densidade do halo digite .x plotar_densidade_halo.C
-- Para gerar um gráfico do perfil da densidade do disco digite: .x plotar_densidade_disco.C
-- Para gerar um gráfico do perfil da densidade do disco e do halo juntos digite: .x plotar_densidades.C
+- Para gerar um gráfico do perfil da densidade do halo digite: `.x plotar_densidade_halo.C`
+- Para gerar um gráfico do perfil da densidade do disco digite: `.x plotar_densidade_disco.C` 
+- Para gerar um gráfico do perfil da densidade do disco e do halo juntos digite: `.x plotar_densidades.C`
 
 Desenvolvido por Emilly Tavares
